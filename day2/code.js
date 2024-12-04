@@ -1,5 +1,4 @@
 const fs = require("fs");
-const { validateHeaderName } = require("http");
 
 function read(file) {
   const res = [];
